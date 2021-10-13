@@ -1,6 +1,6 @@
 {
   "name": "random-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spinner calls callback functions from a set at random",
   "main": "index.js",
   "scripts": {
