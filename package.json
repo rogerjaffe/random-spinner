@@ -1,7 +1,7 @@
 {
   "name": "random-spinner",
-  "version": "1.0.1",
-  "description": "Spinner calls callback functions from a set at random",
+  "version": "1.0.2",
+  "description": "Spinner returns various random values depending on options parameter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
