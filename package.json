@@ -1,0 +1,22 @@
+{
+  "name": "random-spinner",
+  "version": "1.0.0",
+  "description": "Spinner calls callback functions from a set at random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerjaffe/spinner.git"
+  },
+  "keywords": [
+    "random",
+    "spinner",
+    "callback",
+    "random-choice"
+  ],
+  "homepage": "https://github.com/rogerjaffe/spinner.git#readme",
+  "author": "Roger Jaffe",
+  "license": "ISC"
+}
